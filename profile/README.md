@@ -1,12 +1,14 @@
-## Hi there 👋
+<h1 align="center">Welcome to CodeQuestic ツ</h1>
+<p align="center">We are dedicated to creating and supporting open-source projects that empower beginners and benefit the community.</p>
 
-<!--
+<div align="center">
+<img src="https://github.com/CodeQuestic/.github/assets/83587918/966e6715-1eea-4cde-bac0-eeb5acc3b765" height="" width="250" />
+</div>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,androidstudio,flutter,arduino,html,css,js,php,bootstrap,react,vue,redux,materialui,nodejs,express,firebase,mysql,mongodb,linux,docker&theme=dark&perline=12" alt="programming languages" />
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+<p>Show some love by ⭐ the repositories, If you find it helpful</p>
+</div>
