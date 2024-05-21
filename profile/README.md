@@ -7,4 +7,4 @@
   <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,androidstudio,flutter,arduino,html,css,js,php,bootstrap,react,vue,redux,materialui,nodejs,express,firebase,mysql,mongodb,linux,docker&theme=dark&perline=12" alt="programming languages" />
 </p>
 
-<p align="center">Support us by ✶ starring the repositories that help you!</p>
+<p align="center">Support us by ✶ starring the repositories :) !</p>
