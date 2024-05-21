@@ -1,5 +1,3 @@
-<h1 align="center">CodeQuestic ツ</h1>
-
 ![CodeQuesticBannerReadme](https://github.com/CodeQuestic/.github/assets/83587918/7b0355bb-be31-43d7-abac-b1dd48798229)
 
 <p align="center">We are dedicated to creating and supporting open-source projects that empower beginners and benefit the community.</p>
