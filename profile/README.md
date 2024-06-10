@@ -2,6 +2,12 @@
 
 <p align="center">We are dedicated to creating and supporting open-source projects that empower beginners and benefit the community.</p>
 
+<div align="center">
+  
+  [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/bC4K6Uatc5)
+  
+</div>
+
 <h1 align="center">Languages & Tools</h1>
 <p align="center">
   <img width="900px" src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,androidstudio,flutter,arduino,html,css,js,php,bootstrap,react,vue,redux,materialui,nodejs,express,firebase,mysql,mongodb,linux,docker&theme=dark&perline=12" alt="programming languages" />
