@@ -10,7 +10,7 @@
 <h1 align="center">Follow Us</h1>
 <div align="center">
   
-  [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/bC4K6Uatc5)
+  [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/9UzrpAa9)
   
 </div>
 
