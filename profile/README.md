@@ -1,4 +1,4 @@
-![CodeQuesticBannerReadme](https://github.com/CodeQuestic/.github/assets/83587918/7b0355bb-be31-43d7-abac-b1dd48798229)
+![CodeQuestic](https://github.com/user-attachments/assets/1b004463-57a7-4f7b-b3c8-5da22d1625a6)
 
 <p align="center">We are dedicated to creating and supporting open-source projects that empower beginners and benefit the community.</p>
 
