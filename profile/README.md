@@ -1,4 +1,4 @@
-![CodeQuestic](https://github.com/user-attachments/assets/1b004463-57a7-4f7b-b3c8-5da22d1625a6)
+![CodeQuestic GitHub ReadMe Banner](https://github.com/user-attachments/assets/abb97762-381c-46ad-bf17-4ddb238e1c8a)
 
 <p align="center">We are dedicated to creating and supporting open-source projects that empower beginners and benefit the community.</p>
 
